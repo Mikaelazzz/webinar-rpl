@@ -2,7 +2,7 @@
 
 ## TODO : 
 
-## Main To-Do
+### Main To-Do
 
 - [ ] Choose the Method
 - [ ] Choose Framework (?)
@@ -13,12 +13,11 @@
 - [ ] Maybe User Flow, ERD, or other diagram for proposal detail(?)
 - [ ] Don't forget to documentation every progress
 
-## The Proposal
+### The Proposal
 - [ ] Not Yet
 
-## Frontend
+### Frontend
 - [ ] Not Yet
 
-## Backend
+### Backend
 - [ ] Not Yet
-
